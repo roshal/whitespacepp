@@ -61,7 +61,7 @@
 				},
 				"whitespacepp.textLF": {
 					"type": "string",
-					"default": "↵",
+					"default": "🢱",
 					"description": "Text for Line Feed (\\n). You can also specify Unicode characters such as \"↩\", \"◂\", \"▾\"."
 				},
 				"whitespacepp.textEOF": {
